@@ -46,19 +46,19 @@
             "date": "14/12/2022"
         },
         {
-            "id": 7,
-            "event_name": "movie night : mindinght at paris",
+            "id": 4,
+            "event_name": "sport day : football match",
             "describ1": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, enim cum? Officiis nobis quod eos. Alias eligendi hic officia, laudantium enim sint quidem labore est deleniti, atque, pariatur nemo eius.",
             "describ2": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, enim cum? Officiis nobis quod eos. Alias eligendi hic officia, laudantium enim sint quidem labore est deleniti, atque, pariatur nemo eius.",
             "describ3": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, enim cum? Officiis nobis quod eos. Alias eligendi hic officia, laudantium enim sint quidem labore est deleniti, atque, pariatur nemo eius.",
             "describ4": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, enim cum? Officiis nobis quod eos. Alias eligendi hic officia, laudantium enim sint quidem labore est deleniti, atque, pariatur nemo eius.",
             "presentation": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, enim cum? Officiis nobis quod eos. Alias eligendi hic officia, laudantium enim sint quidem labore est deleniti, atque, pariatur nemo eius.",
-            "poster": "@/assets/images/event6/poster.jpg",
-            "img1": "@/assets/images/event6/movie_night_poster.jpg",
-            "img2": "@/assets/images/event6/movie_pics.jpg",
-            "img3": "@/assets/images/event6/people_watching_movie.jpg",
-            "img4": "@/assets/images/event6/women_watching_movie.jpeg",
-            "date": "16/12/2022"
+            "poster": "@/assets/images/event4/poster.jpg",
+            "img1": "@/assets/images/event4/big_foot.svg",
+            "img2": "@/assets/images/event4/goolkeeper.jpg",
+            "img3": "@/assets/images/event4/man_football.jpg",
+            "img4": "@/assets/images/event4/women_football.jpg",
+            "date": "15/12/2022"
         },
         {
             "id": 5,
@@ -75,20 +75,20 @@
             "img4": "@/assets/images/event5/family_haloween.jpeg",
             "date": "15/12/2022"
         },
-        {
-            "id": 4,
-            "event_name": "sport day : football match",
+         {
+            "id": 7,
+            "event_name": "movie night : mindinght at paris",
             "describ1": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, enim cum? Officiis nobis quod eos. Alias eligendi hic officia, laudantium enim sint quidem labore est deleniti, atque, pariatur nemo eius.",
             "describ2": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, enim cum? Officiis nobis quod eos. Alias eligendi hic officia, laudantium enim sint quidem labore est deleniti, atque, pariatur nemo eius.",
             "describ3": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, enim cum? Officiis nobis quod eos. Alias eligendi hic officia, laudantium enim sint quidem labore est deleniti, atque, pariatur nemo eius.",
             "describ4": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, enim cum? Officiis nobis quod eos. Alias eligendi hic officia, laudantium enim sint quidem labore est deleniti, atque, pariatur nemo eius.",
             "presentation": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, enim cum? Officiis nobis quod eos. Alias eligendi hic officia, laudantium enim sint quidem labore est deleniti, atque, pariatur nemo eius.",
-            "poster": "@/assets/images/event4/poster.jpg",
-            "img1": "@/assets/images/event4/big_foot.svg",
-            "img2": "@/assets/images/event4/goolkeeper.jpg",
-            "img3": "@/assets/images/event4/man_football.jpg",
-            "img4": "@/assets/images/event4/women_football.jpg",
-            "date": "15/12/2022"
+            "poster": "@/assets/images/event6/poster.jpg",
+            "img1": "@/assets/images/event6/movie_night_poster.jpg",
+            "img2": "@/assets/images/event6/movie_pics.jpg",
+            "img3": "@/assets/images/event6/people_watching_movie.jpg",
+            "img4": "@/assets/images/event6/women_watching_movie.jpeg",
+            "date": "16/12/2022"
         }
     ]
 }
