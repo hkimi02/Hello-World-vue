@@ -8,7 +8,7 @@
     "describ3": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, enim cum? Officiis nobis quod eos. Alias eligendi hic officia, laudantium enim sint quidem labore est deleniti, atque, pariatur nemo eius.",
     "describ4": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, enim cum? Officiis nobis quod eos. Alias eligendi hic officia, laudantium enim sint quidem labore est deleniti, atque, pariatur nemo eius.",
     "presentation": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, enim cum? Officiis nobis quod eos. Alias eligendi hic officia, laudantium enim sint quidem labore est deleniti, atque, pariatur nemo eius.",
-    "poster": '@/assets/images/event1/movie_poster.jpg',
+    "poster": "@/assets/images/event1/movie_poster.jpg",
     "img1": "@/assets/images/event1/movie_night_poster.jpg",
     "img2": "@/assets/images/event1/movie_pics.jpg",
     "img3": "@/assets/images/event1/people_watching_movie.jpg",
